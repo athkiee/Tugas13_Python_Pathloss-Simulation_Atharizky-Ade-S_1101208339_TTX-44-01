@@ -1,2 +1,1 @@
-# Tugas13_Python_Pathloss-Simulation_Atharizky-Ade-S_1101208339_TTX-44-01
-TUGAS 13 - PEMROGRAMAN PYTHON ( ATHARIZKY ADE SANTOSA / 1101208339 / TTX-44-01 )
+Python_Pathloss-Simulation_Atharizky-Ade-S
